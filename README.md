@@ -6,7 +6,7 @@ The repository includes:
 * data
   * [orange_score.csv](https://github.com/pyxelr/Customer_Churn_Prediction_at_Orange/blob/main/data/orange_score.csv) – dataset of 10k rows to make the ML model
   * [orange_train.csv](https://github.com/pyxelr/Customer_Churn_Prediction_at_Orange/blob/main/data/orange_train.csv) – dataset of 100k rows to do the churn prediction
- * results
+* results
   * [list_of_all_customers_likely_to_churn.csv](https://github.com/pyxelr/Customer_Churn_Prediction_at_Orange/blob/main/results/list_of_all_customers_likely_to_churn.csv) – list of all the 100k customers with the `probability_of_churn` score
   * [list_of_the_100_customers_most_likely_to_churn.xlsx](https://github.com/pyxelr/Customer_Churn_Prediction_at_Orange/blob/main/results/list_of_the_100_customers_most_likely_to_churn.xlsx) – the same list but limited to 100 rows in a descending order
   * [pandas_profiling_report.html](https://github.com/pyxelr/Customer_Churn_Prediction_at_Orange/blob/main/results/pandas_profiling_report.html) – Pandas Profiling report (as a quick/automated EDA)
